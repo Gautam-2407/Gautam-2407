@@ -3,7 +3,7 @@
 <h1 align="center">
   <samp>💫 I'm Gautam Bhata & welcome to my GitHub profile!</samp>
   <span align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=shrutimalde&label=Profile%20views&color=6e64bc&style=flat" alt="gautambhatia" />
+    <img src="https://komarev.com/ghpvc/?username=Gautam-2407&label=Profile%20views&color=6e64bc&style=flat" alt="gautambhatia" />
   </span> 
 </h1>
 <h3 align="center"><i>Passionate about creating intuitive user experiences </i></h3>
